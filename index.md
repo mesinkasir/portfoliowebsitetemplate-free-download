@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
+# Portfolio website template themes
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/portfoliowebsitetemplate-free-download/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Deploy with Vercel](https://vercel.com/button)](https://creativebydre.vercel.app)
 
-### Markdown
+Demo : 
+[https://creativebydre.vercel.app](https://creativebydre.vercel.app)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Documentation and installation
+[https://www.hockeycomputindo.com/2021/06/new-portfolio-website-template-themes.html](https://www.hockeycomputindo.com/2021/06/new-portfolio-website-template-themes.html)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[Live Codding on StackBlitz ⚡️](https://stackblitz.com/edit/portfoliowebsitetemplate)
 
-- Bulleted
-- List
+-----------
 
-1. Numbered
-2. List
+### Free portfolio website template themes
 
-**Bold** and _Italic_ and `Code` text
+Build with bootstrap UIkit Animate and angular
 
-[Link](url) and ![Image](src)
-```
+website template for portfolio and art gallery.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-----------
 
-### Jekyll Themes
+![Free portfolio website template themes](https://1.bp.blogspot.com/-Dt70lzt76jc/YLlEMBKWlwI/AAAAAAAAKIQ/wcXga3vItUIF4HpTuL16zOUJ38nFOXlegCLcBGAsYHQ/s16000/free%2Bwebsite%2Btemplate%2Bthemes%2Bportfolio%2Bgratis%2B%25281%2529.jpeg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/portfoliowebsitetemplate-free-download/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Home page 
 
-### Support or Contact
+![Free portfolio website template themes](https://1.bp.blogspot.com/-xcbDzUugS-4/YLlEObJ65II/AAAAAAAAKIs/iqsfbCvGHeECgzQXyoKzthSq_Th_l_OvQCLcBGAsYHQ/s16000/free%2Bwebsite%2Btemplate%2Bthemes%2Bportfolio%2Bgratis%2B%25288%2529.jpeg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Sidebar menu
+
+
+![Free portfolio website template themes](https://1.bp.blogspot.com/-WcKTHNgVTlc/YLlEMCytvaI/AAAAAAAAKIU/6PkPOq38nEgh04ZAmPTybaXgomIzMgHfQCLcBGAsYHQ/s16000/free%2Bwebsite%2Btemplate%2Bthemes%2Bportfolio%2Bgratis%2B%25282%2529.jpeg)
+
+
+Photography Menu
+
+
+![Free portfolio website template themes](https://1.bp.blogspot.com/-d4xTZE4fop8/YLlENRLxSzI/AAAAAAAAKIk/vJGhNLBnbCIKO-n8u_KEUJL1Gv_GJrdbwCLcBGAsYHQ/s16000/free%2Bwebsite%2Btemplate%2Bthemes%2Bportfolio%2Bgratis%2B%25285%2529.jpeg)
+
+Art Gallery
+
+
+![Free portfolio website template themes](https://1.bp.blogspot.com/-LgV1fgDhyoQ/YLlEOOpXojI/AAAAAAAAKIo/_1b7nsDYKEc1PYGyTphf0Pkt4-8K4JiewCLcBGAsYHQ/s16000/free%2Bwebsite%2Btemplate%2Bthemes%2Bportfolio%2Bgratis%2B%25287%2529.jpeg)
+
+Source code menu
+
+
+![Free portfolio website template themes](https://1.bp.blogspot.com/-VKseqryUgCw/YLlENECK9JI/AAAAAAAAKIc/7GZxdXnjXBwSeQnf27ZJsD9dXlYc8XXjwCLcBGAsYHQ/s16000/free%2Bwebsite%2Btemplate%2Bthemes%2Bportfolio%2Bgratis%2B%25284%2529.jpeg)
+
+Youtube gallery
+
+
+![Free portfolio website template themes](https://1.bp.blogspot.com/-F9EZPhfcMf4/YLlEMHLtiGI/AAAAAAAAKIY/IeogOKw-RsIMLkC-LAlpvNrDKdB8cwgZACLcBGAsYHQ/s16000/free%2Bwebsite%2Btemplate%2Bthemes%2Bportfolio%2Bgratis%2B%25283%2529.jpeg)
+
+Soundloud gallery
+
+![Free portfolio website template themes](https://1.bp.blogspot.com/--pyKhYAGztc/YLlENTFN40I/AAAAAAAAKIg/paoQZuKm4JME6J9SOzIufOjSu4cez8RJACLcBGAsYHQ/s16000/free%2Bwebsite%2Btemplate%2Bthemes%2Bportfolio%2Bgratis%2B%25286%2529.jpeg)
+
+
+Donation / Hire page 
+
+--------------------
+
+How to install ??
+
+Read Documentation and installation 
+[https://www.hockeycomputindo.com/2021/06/new-portfolio-website-template-themes.html](https://www.hockeycomputindo.com/2021/06/new-portfolio-website-template-themes.html)
+
+-------------------------------------------------------------
+
+### Buy me a coffee :hearts: ✌🏻
+
+:coffee: :coffee: :coffee: 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
